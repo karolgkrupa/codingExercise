@@ -1,0 +1,8 @@
+ipython
+pandas
+pyarrow
+numpy
+pyspark==3.5.7
+grpcio
+grpcio-status
+pytest

@@ -1,0 +1,10 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+/venv
+**/requirements/*.txt
+**/data/**
+/.idea
+**/.DS_Store
+.DS_Store
+**/__pycache__
+*.drawio.bkp
+**/.ruff_cache
